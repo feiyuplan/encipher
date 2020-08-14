@@ -28,8 +28,8 @@ class Encipher
      * Default comments.
      */
     public $comments = array(
-        'Author:Jacky Yu',
-        'Email: jacky325@qq.com'
+        'Author:FeiYu',
+        'Email: 315061897@qq.com'
     );
     
     /**
